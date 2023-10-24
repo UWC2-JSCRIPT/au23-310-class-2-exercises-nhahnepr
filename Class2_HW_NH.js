@@ -1,3 +1,5 @@
+// Exercise 2 assignments: Noel Hahn
+
 /* 1. Create an object representation of yourself. Should include:
 firstName
 lastName
